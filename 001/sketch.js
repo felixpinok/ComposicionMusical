@@ -10,7 +10,7 @@ function setup() {
 
   var canvas = createCanvas(windowWidth, windowHeight);
   colorMode(HSB);
-  status = 1;
+  status = 0;
   // Move the canvas so it's inside our <div id="sketch-holder">.
   canvas.parent('sketch-holder');
 
@@ -26,13 +26,10 @@ function draw() {
   //function slide( h, v, f, o )
   //console.log('indexh ' + indexh); //FPK
   //console.log(indexh); //FPK
-  // if ( == 0) screen0();
-  // if ( == 1) screen1();
-  // if ( == 2) screen2();
 
   if (status == 0) screen0();
-  if (status == 1) screen1();
-  if (status == 2) screen2();
+  // if ( == 1) screen1();
+  // if ( == 2) screen2();
 
   //console.log(slide);
 }
@@ -44,35 +41,6 @@ function draw() {
 // }
 
 function screen0() {
-  var inc = 6.280400572246066;
-  var onc = -0.0037090558766859345;
-  // var inc = map(mouseY, 0, height, 0., 10);
-  // var onc = map(mouseX, 0, width, -0.005, 0.005);
-  background(0); //51 // (0,0,15)
-  tono = tono + velTono;
-  if (tono > 321.) {
-    velTono = -0.5;
-  }
-  if (tono < 174.) {
-    velTono = 0.5;
-  }
-  noFill();
-  beginShape();
-  var xoff = start;
-  for (var x = 0; x < width; x++) {
-    stroke(tono, 33, 177,15);
-    var n = map(noise(xoff), 0, 1, -5, 5);
-    var s = map(sin(xoff), -1, 1, 0, height);
-    var y = s + n;
-    arc(x, y, 280, 280, PI, TWO_PI);
-    xoff += inc;
-  }
-  endShape();
-  start += inc * onc;
-  //console.log('inc: ' + inc + ' onc: ' + onc);
-}
-
-function screen1() {
   var inc = 0.32904148783977116;
   var onc = 0.002967244701348748;
   // var inc = map(mouseY, 0, height, 0., 10);
@@ -104,32 +72,4 @@ function screen1() {
   //stroke(255);
   //strokeWeight(1);
   //text('inc: ' + inc + 'onc: ' + onc);
-}
-function screen2() {
-  var inc = 0.01430615164520744;
-  var onc = -0.0023121387283236996;
-  // var inc = map(mouseY, 0, height, 0., 10);
-  // var onc = map(mouseX, 0, width, -0.005, 0.005);
-  background(0); //51 // (0,0,15)
-  tono = tono + velTono;
-  if (tono > 321.) {
-    velTono = -0.5;
-  }
-  if (tono < 174.) {
-    velTono = 0.5;
-  }
-  noFill();
-  beginShape();
-  var xoff = start;
-  for (var x = 0; x < width; x++) {
-    stroke(tono, 33, 177,15);
-    var n = map(noise(xoff), 0, 1, -5, 5);
-    var s = map(sin(xoff), -1, 1, 0, height);
-    var y = s + n;
-    arc(x, y, 280, 280, PI, TWO_PI);
-    xoff += inc;
-  }
-  endShape();
-  start += inc * onc;
-  //console.log('inc: ' + inc + ' onc: ' + onc);
 }
