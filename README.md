@@ -3,3 +3,5 @@ Presentaciones para la Asignatura Composición I en Instituto Profesional Arcos,
 
 001 https://felixpinok.github.io/ComposicionMusical/001/
 002 https://felixpinok.github.io/ComposicionMusical/002/
+003 https://felixpinok.github.io/ComposicionMusical/003/
+004 https://felixpinok.github.io/ComposicionMusical/004/
