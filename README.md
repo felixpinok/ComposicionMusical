@@ -1,24 +1,25 @@
 # ComposicionMusical
 Presentaciones para la Asignatura Composición I en Instituto Profesional Arcos, utilizando el entorno de presentacion HTML http://lab.hakim.se/reveal-js/ y la libreria de JavaScript https://p5js.org/
 
-001 https://felixpinok.github.io/ComposicionMusical/001/
 
-002 https://felixpinok.github.io/ComposicionMusical/002/
+001 [https://felixpinok.github.io/ComposicionMusical/001/](https://felixpinok.github.io/ComposicionMusical/001/)
 
-003 https://felixpinok.github.io/ComposicionMusical/003/
+002 [https://felixpinok.github.io/ComposicionMusical/002/](https://felixpinok.github.io/ComposicionMusical/002/)
 
-004 https://felixpinok.github.io/ComposicionMusical/004/
+003 [https://felixpinok.github.io/ComposicionMusical/003/](https://felixpinok.github.io/ComposicionMusical/003/)
 
-005 https://felixpinok.github.io/ComposicionMusical/005/
+004 [https://felixpinok.github.io/ComposicionMusical/004/](https://felixpinok.github.io/ComposicionMusical/004/)
 
-006 https://felixpinok.github.io/ComposicionMusical/006/
+005 [https://felixpinok.github.io/ComposicionMusical/005/](https://felixpinok.github.io/ComposicionMusical/005/)
 
-007 https://felixpinok.github.io/ComposicionMusical/007/
+006 [https://felixpinok.github.io/ComposicionMusical/006/](https://felixpinok.github.io/ComposicionMusical/006/)
 
-008 https://felixpinok.github.io/ComposicionMusical/008/
+007 [https://felixpinok.github.io/ComposicionMusical/007/](https://felixpinok.github.io/ComposicionMusical/007/)
 
-009 https://felixpinok.github.io/ComposicionMusical/009/
+008 [https://felixpinok.github.io/ComposicionMusical/008/](https://felixpinok.github.io/ComposicionMusical/008/)
 
-010 https://felixpinok.github.io/ComposicionMusical/010/
+009 [https://felixpinok.github.io/ComposicionMusical/009/](https://felixpinok.github.io/ComposicionMusical/009/)
 
-011 https://felixpinok.github.io/ComposicionMusical/011/
+010 [https://felixpinok.github.io/ComposicionMusical/010/](https://felixpinok.github.io/ComposicionMusical/010/)
+
+011 [https://felixpinok.github.io/ComposicionMusical/011/](https://felixpinok.github.io/ComposicionMusical/011/)
