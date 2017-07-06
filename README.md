@@ -29,3 +29,7 @@ Presentaciones para la Asignatura Composición I en Instituto Profesional Arcos,
 013 [https://felixpinok.github.io/ComposicionMusical/013/](https://felixpinok.github.io/ComposicionMusical/013/)
 
 014 [https://felixpinok.github.io/ComposicionMusical/014/](https://felixpinok.github.io/ComposicionMusical/014/)
+
+015 [https://felixpinok.github.io/ComposicionMusical/015/](https://felixpinok.github.io/ComposicionMusical/015/)
+
+016 [https://felixpinok.github.io/ComposicionMusical/016/](https://felixpinok.github.io/ComposicionMusical/016/)
